@@ -6,7 +6,7 @@ It was completed in **R Markdown**, integrating statistical modeling, diagnostic
 ---
 
 ## 📘 Project Overview
-This project extends prior assignments by applying advanced forecasting techniques, residual evaluation, and comparative model analysis.
+This project extends prior experience by applying advanced forecasting techniques, residual evaluation, and comparative model analysis.
 
 ### Key Sections
 1. **Model Development**
@@ -36,7 +36,7 @@ This project extends prior assignments by applying advanced forecasting techniqu
 
 ## 📄 Files Included
 - `Time Series Analysis Project 4. Rmd` – main R Markdown file with all code and interpretations  
-- Time Series Analysis Project 4.pdf –  file with all code and interpretations 
+- Time Series Analysis Project 4.pdf –  file with all code, output, and interpretations 
 
 ---
 
@@ -48,7 +48,7 @@ South Dakota State University
 ---
 
 ## 🔗 Related Repositories
-- [STAT 601 – Time Series Homework 1](https://github.com/Julius360-max/Julius-Hai-Time_Series-project-1-done-in-R-Markdown)  
-- [STAT 601 – Time Series Homework 2](https://github.com/Julius360-max/STAT601_TimeSeries_Homework2)  
-- [STAT 601 – Problem Set 3](https://github.com/Julius360-max/STAT601_TimeSeries_PS3)
+- [Time Series project 1](https://github.com/Julius360-max/Julius-Hai-Time_Series-project-1-done-in-R-Markdown)  
+- [Time Series project 2](https://github.com/Julius360-max/TimeSeries_project 2)  
+- [Time series project 3(https://github.com/Julius360-max/TimeSeries_Project 3)
 
