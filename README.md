@@ -48,8 +48,8 @@ South Dakota State University
 ---
 
 ## 🔗 Related Repositories
-- [STAT 601 – Time Series Project 1](https://github.com/Julius360-max/Julius-Hai-Time_Series-project-1-done-in-R-Markdown)  
-- [STAT 601 – Time Series Project 2](https://github.com/Julius360-max/STAT601_TimeSeries_Homework2)  
-- [STAT 601 – Time Series Project 3](https://github.com/Julius360-max/STAT601_TimeSeries_PS3)  
-- [STAT 601 – Time Series Project 4](https://github.com/Julius360-max/STAT601_TimeSeries_Project4)
+- [Time Series Project 1](https://github.com/Julius360-max/Julius-Hai-Time_Series-project-1-done-in-R-Markdown)  
+- [Time Series Project 2](https://github.com/Julius360-maxTimeSeries_project2)  
+- [Time Series Project 3](https://github.com/Julius360-max/TimeSeries_Project3)  
+- [Time Series Project 4](https://github.com/Julius360-max/TimeSeries_Project4)
 
